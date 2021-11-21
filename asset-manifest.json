@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/makkut/movies/static/css/main.03455b32.chunk.css",
-    "main.js": "/makkut/movies/static/js/main.b85a1316.chunk.js",
-    "main.js.map": "/makkut/movies/static/js/main.b85a1316.chunk.js.map",
+    "main.js": "/makkut/movies/static/js/main.f5f07db2.chunk.js",
+    "main.js.map": "/makkut/movies/static/js/main.f5f07db2.chunk.js.map",
     "runtime-main.js": "/makkut/movies/static/js/runtime-main.8322b2e6.js",
     "runtime-main.js.map": "/makkut/movies/static/js/runtime-main.8322b2e6.js.map",
     "static/js/2.1f23eb08.chunk.js": "/makkut/movies/static/js/2.1f23eb08.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.8322b2e6.js",
     "static/js/2.1f23eb08.chunk.js",
     "static/css/main.03455b32.chunk.css",
-    "static/js/main.b85a1316.chunk.js"
+    "static/js/main.f5f07db2.chunk.js"
   ]
 }
